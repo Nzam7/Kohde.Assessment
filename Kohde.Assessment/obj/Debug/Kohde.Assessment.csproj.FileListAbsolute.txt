@@ -1,0 +1,13 @@
+C:\Users\Nzam Pistis\source\Home\Kohde.Assessment\Kohde.Assessment\bin\Debug\Kohde.Assessment.exe.config
+C:\Users\Nzam Pistis\source\Home\Kohde.Assessment\Kohde.Assessment\bin\Debug\Kohde.Assessment.exe
+C:\Users\Nzam Pistis\source\Home\Kohde.Assessment\Kohde.Assessment\bin\Debug\Kohde.Assessment.pdb
+C:\Users\Nzam Pistis\source\Home\Kohde.Assessment\Kohde.Assessment\obj\Debug\Kohde.Assessment.csproj.CoreCompileInputs.cache
+C:\Users\Nzam Pistis\source\Home\Kohde.Assessment\Kohde.Assessment\obj\Debug\Kohde.Assessment.exe
+C:\Users\Nzam Pistis\source\Home\Kohde.Assessment\Kohde.Assessment\obj\Debug\Kohde.Assessment.pdb
+C:\Users\Nzam Pistis\source\Home\New\Kohde.Assessment\Kohde.Assessment\bin\Debug\Kohde.Assessment.exe.config
+C:\Users\Nzam Pistis\source\Home\New\Kohde.Assessment\Kohde.Assessment\bin\Debug\Kohde.Assessment.exe
+C:\Users\Nzam Pistis\source\Home\New\Kohde.Assessment\Kohde.Assessment\bin\Debug\Kohde.Assessment.pdb
+C:\Users\Nzam Pistis\source\Home\New\Kohde.Assessment\Kohde.Assessment\obj\Debug\Kohde.Assessment.csproj.AssemblyReference.cache
+C:\Users\Nzam Pistis\source\Home\New\Kohde.Assessment\Kohde.Assessment\obj\Debug\Kohde.Assessment.csproj.CoreCompileInputs.cache
+C:\Users\Nzam Pistis\source\Home\New\Kohde.Assessment\Kohde.Assessment\obj\Debug\Kohde.Assessment.exe
+C:\Users\Nzam Pistis\source\Home\New\Kohde.Assessment\Kohde.Assessment\obj\Debug\Kohde.Assessment.pdb

@@ -1,14 +1,17 @@
 ﻿namespace Kohde.Assessment
 {
-    public class Human
+    // Human class inheriting from Animal and implementing GetDetails method
+    public class Human : Animal
     {
-        public string Name { get; set; }
-        public int Age { get; set; }
         public string Gender { get; set; }
 
-        public string GetDetails()
+        public override string GetDetails()
         {
-            return "Name: " + Name + "Age: " + Age;
+            return $"Name: {Name}, Age: {Age}, Gender: {Gender}";
+        }
+        public override string ToString()
+        {
+            return GetDetails();
         }
     }
 }

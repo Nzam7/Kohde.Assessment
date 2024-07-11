@@ -37,7 +37,14 @@ namespace Kohde.Assessment
         {
             if (disposing)
             {
-                // Dispose managed resources
+                // Unsubscribe event handlers to avoid memory leaks
+                if (SomethingHappened != null)
+                {
+                    foreach (var d in SomethingHappened.GetInvocationList())
+                    {
+                        SomethingHappened -= (MyEventHandler)d;
+                    }
+                }
             }
 
             // Free native resources
